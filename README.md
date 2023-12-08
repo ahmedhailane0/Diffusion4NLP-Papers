@@ -27,8 +27,8 @@ A paper list about diffusion models for natural language processing.
 
 ### Survey
 
-1. DIFFUSION MODELS: A COMPREHENSIVE SURVEY OFMETHODS AND APPLICATIONS. Ling Yang, Zhilong Zhang, Shenda Hong, Wentao Zhang, Bin Cui. [[pdf](https://arxiv.org/pdf/2209.00796v3.pdf)]
-2. A Survey of Diffusion Models in Natural Language Processing. Hao Zou, Zae Myung Kim, Dongyeop Kang. [[pdf](https://arxiv.org/abs/2305.14671)]
+1. **DIFFUSION MODELS: A COMPREHENSIVE SURVEY OFMETHODS AND APPLICATIONS**. Ling Yang, Zhilong Zhang, Shenda Hong, Wentao Zhang, Bin Cui. [[pdf](https://arxiv.org/pdf/2209.00796v3.pdf)]
+2. **A Survey of Diffusion Models in Natural Language Processing**. Hao Zou, Zae Myung Kim, Dongyeop Kang. [[pdf](https://arxiv.org/abs/2305.14671)]
 
 ### Comprehensive DM Papers
 
