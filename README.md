@@ -1,5 +1,5 @@
 # Diffusion4NLP-Papers
-![](https://img.shields.io/static/v1?label=Latest-Commit&message=2023/12/08&color=important).
+![](https://img.shields.io/static/v1?label=Latest-Commit&message=2023/12/08&color=important)
 
 A paper list about diffusion models for natural language processing.
 
